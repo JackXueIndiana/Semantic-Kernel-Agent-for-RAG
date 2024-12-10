@@ -1,7 +1,7 @@
 # Semantic-Kernel-Agent-for-RAG
 This is a simple example on how to use Semantic Kernel to build a RAG with GPT-4o and text-embedding-ada-002 as completion and embedding models and Qdrant Memory Store.
 
-Vector Search Engine Qdrant can be downloaded from https://github.com/qdrant/qdrant and run local docker environment. The command worked for me is:
+Vector Search Engine Qdrant can be downloaded from https://github.com/qdrant/qdrant and run in local docker environment. The commands worked for me is:
 ~~~
 # Pull the image
 docker pull qdrant/qdrant
